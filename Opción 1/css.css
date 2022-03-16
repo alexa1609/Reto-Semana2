@@ -1,0 +1,36 @@
+#login-box {
+    width: 30%;
+    text-align: center;
+    margin: 2 auto;
+    padding: 10px 100px;
+    font-family: calibri;
+}
+
+#login-box h3 {
+    color: rgba(0, 0, 0, 0.829);
+}
+
+#login-box h2 {
+    color: rgba(0, 0, 0, 0.829);;
+}
+
+#login-box .form .item input {
+    width: 200px;
+    border: 1;
+    font-family: calibri;
+    font-size: 16px; 
+    color: rgb(10, 9, 9); 
+    padding: 10px 20px;
+}
+
+#login-box button {
+    border: 0;
+    width: 100px;
+    height: 30px;
+    margin-top: 16px;
+    font-size: 16px;
+    color: white;
+    border-radius: 2px;
+    background-color: rgb(30, 128, 30);
+}
+
